@@ -1,0 +1,90 @@
+{
+    "project_info": {
+        "project_number": "327299033473",
+        "firebase_url": "https://noticias-esfot.firebaseio.com",
+        "project_id": "noticias-esfot",
+        "storage_bucket": "noticias-esfot.appspot.com"
+    },
+    "client": [{
+            "client_info": {
+                "mobilesdk_app_id": "sus_credenciales",
+                "android_client_info": {
+                    "package_name": "com.epn.esfot"
+                }
+            },
+            "oauth_client": [{
+                    "client_id": "sus_credenciales",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.epn.esfot",
+                        "certificate_hash": "sus_credenciales"
+                    }
+                },
+                {
+                    "client_id": "sus_credenciales",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [{
+                "current_key": "sus_credenciales"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                            "client_id": "sus_credenciales",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "sus_credenciales",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.esfotnoticias"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "sus_credenciales",
+                "android_client_info": {
+                    "package_name": "com.esfotnoticias"
+                }
+            },
+            "oauth_client": [{
+                    "client_id": "sus_credenciales",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.esfotnoticias",
+                        "certificate_hash": "sus_credenciales"
+                    }
+                },
+                {
+                    "client_id": "sus_credenciales",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [{
+                "current_key": "sus_credenciales"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                            "client_id": "sus_credenciales",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "sus_credenciales",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.esfotnoticias"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
